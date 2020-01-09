@@ -1,12 +1,25 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: /
+  - title: "Important Info"
+    url: /important-info/
+  - title: "CFP"
+    url: /cfp/
+  - title: "Sponsors and Media Partners"
+    url: /sponsors-media/
+
+sidebar:
+  - title: "Schedule"
+    url: /important-info/
+    children:
+      - title: "Day 1"
+        url: /day1/
+      - title: "Day 2"
+        url: /day2/
+  - title: "Event & Area Info"
+    url: /event-info/
+  - title: "Speaker List"
+    url: /speaker-list/
+  - title: "Registration"
+    url: /register/
