@@ -12,10 +12,10 @@ feature_row:
     url: "https://riat.at"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-customizable-feature.png
-    title: "Sponsor 2"
-    excerpt: "Nullam eleifend vel lectus in porta. Nullam euismod volutpat congue. Fusce at nunc nibh."
-    url: "/"
+  - image_path: https://images.squarespace-cdn.com/content/5be4a22850a54f11a461166d/1547790855152-90R77T1M2C1PPWUUDE8I/Logo-4+dark.png
+    title: ""
+    excerpt: "an award-winning director, writer and filmmaker, and a graduate of NYU’s Tisch School of the Arts. Noah specializes in ‘grounded genre’ – everything from science fiction to magical realism, moody atmosphere to playful whimsy, and any permutation in between – but always building a world rooted in our own. Through a lyrical lens and an eye for the absurd, he always seeks the truth and believes a good story is as strong as its characters are relatable."
+    url: "https://www.noahwagner.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-customizable-feature.png
