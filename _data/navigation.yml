@@ -8,6 +8,8 @@ main:
     url: /cfp/
   - title: "Sponsors and Media Partners"
     url: /sponsors-media/
+  - title: "Register"
+    url: /register/
 
 sidebar:
   - title: "Schedule"
