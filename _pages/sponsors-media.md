@@ -7,8 +7,8 @@ header:
   overlay_image: "https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/berlin-banner.jpg"
 feature_row:
   - image_path: https://riat.at/wp-content/uploads/RIAT.svg
-    title: "RIAT - Institute for Future Cryptoeconomics"
-    excerpt: "RIAT is an independent organisation established in Vienna in 2012. It consists of an international network of researchers, developers and experimentalists who seek to advance the adoption of cryptography and privacy technology across disciplines."
+    title: ""
+    excerpt: "RIAT - Institute for Future Cryptoeconomics - is an independent organisation established in Vienna in 2012. It consists of an international network of researchers, developers and experimentalists who seek to advance the adoption of cryptography and privacy technology across disciplines."
     url: "https://riat.at"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -18,10 +18,10 @@ feature_row:
     url: "https://www.noahwagner.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-customizable-feature.png
-    title: "Sponsor 3"
-    excerpt: "Donec quis nisl in arcu consectetur elementum. Aliquam ac risus nulla."
-    url: "/"
+  - image_path: https://cdn.shopify.com/s/files/1/0068/2142/files/Hak5_White-1024x576.png
+    title: ""
+    excerpt: "Award winning podcasts – Renowned Pentest Gear – Immersive Infosec Training. We love to hack, and we're inspired by the open & supportive nature of the hacker culture. At Hak5 we're committed to elevating the information security industry, by educating, equipping and encouraging this all-inclusive community – one where all hackers belong."
+    url: "https://shop.hak5.org"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-customizable-feature.png
