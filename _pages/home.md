@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-pen'></i> Register Now"
       url: "/register/"
 excerpt: >
-  01, 02 Month 2020  <br /> some place  <br />
+  13, 14 June 2020  <br />MotionLab.Berlin  <br />
   <small>Berlin, Germany</small>
 ---
 
