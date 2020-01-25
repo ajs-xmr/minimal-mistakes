@@ -118,7 +118,7 @@ author:
       url: mailto:orga@monerokon.com
     - label: "Telegram"
       icon: "fas fa-fw fa-link"
-      url: "https://t.me/joinchat/PmC9ihaLP0UZF-bfkD36CA"
+      url: "https://t.me/monerokon"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/monerokon"
@@ -134,7 +134,7 @@ footer:
       url: mailto:orga@monerokon.com
     - label: "Telegram"
       icon: "fas fa-fw fa-link"
-      url: "https://t.me/joinchat/PmC9ihaLP0UZF-bfkD36CA"
+      url: "https://t.me/monerokon"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/monerokon"
