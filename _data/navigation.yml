@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: /
   - title: "Important Info"
-    url: /important-info/
+    url: /day1/
   - title: "CFP"
-    url: https://frab.riat.at
+    url: /cfp/
   - title: "Sponsors and Media Partners"
     url: /sponsors-media/
   - title: "Register"
@@ -13,7 +13,7 @@ main:
 
 sidebar:
   - title: "Schedule"
-    url: /important-info/
+    url: /day1/
     children:
       - title: "Day 1"
         url: /day1/
