@@ -23,5 +23,7 @@ sidebar:
     url: /event-info/
   - title: "Speaker List"
     url: /speaker-list/
+  - title: "Movie Night"
+    url: /films/
   - title: "Registration"
     url: /register/
