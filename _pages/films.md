@@ -40,5 +40,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
+After a long day of talks and workshops on Day 1, stretch, relax, and bring out the popcorn and Club-Mate for movie night at c-base. Enjoy curated sci-fi/tech short films by award wining directors.
 
 {% include feature_row %}
