@@ -22,10 +22,10 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : # ""
 description              : "An academic Monero conference on the importance of cryptocurrency privacy and security."
 url                      : "https://ajs-xmr.github.io"
-baseurl                  : "/minimal-mistakes"
-repository               : "ajs-xmr/minimal-mistakes"
+baseurl                  : # ""
+repository               : # ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/88x88.png"
+logo                     : # ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,9 +108,9 @@ analytics:
 # Site Author
 author:
   name             : "Contact us"
-  avatar           : "https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/monerokon-logo.png"
+  avatar           : "assets/images/monerokon-logo.png"
   bio              : "Learn more about sponsorship and partnership opportunities"
-  location         :  #"Berlin, Germany"
+  location         :  # ""
   email            :
   links:
     - label: "Email"
@@ -153,6 +153,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /assets/images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
