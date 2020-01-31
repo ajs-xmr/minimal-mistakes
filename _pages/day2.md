@@ -1,5 +1,5 @@
 ---
-title: Day 2
+title: Day 2 (Sunday)
 permalink: /day2/
 author_profile: false
 classes: wide
@@ -9,6 +9,9 @@ header:
 sidebar:
   nav: "sidebar"
 ---
+
+The public schedule has yet to be released, but it will be awesome!
+
 | Time | Type | Description |
 | --- | --- | --- |
 | `09:00 - 10:00` | Keynote | Sed eu mi nulla. Donec ac magna vel nisi tincidunt accumsan. Nulla facilisi. |
