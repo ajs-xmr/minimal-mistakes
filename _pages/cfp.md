@@ -4,7 +4,7 @@ title: Monero Konferenco 2020
 permalink: /cfp/
 header:
   overlay_color: "#5e616c"
-  overlay_image: "https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/berlin-banner.jpg"
+  overlay_image: "/assets/images/berlin-banner.jpg"
 ---
 # Call for Presentations/Call for Workshops
 

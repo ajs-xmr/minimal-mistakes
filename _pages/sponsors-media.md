@@ -4,7 +4,7 @@ permalink: /sponsors-media/
 classes: wide
 header:
   overlay_color: "#5e616c"
-  overlay_image: "https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/berlin-banner.jpg"
+  overlay_image: "/assets/images/berlin-banner.jpg"
 feature_row:
   - image_path: https://riat.at/wp-content/uploads/RIAT.svg
     title: ""
@@ -24,19 +24,19 @@ feature_row:
     url: "https://shop.hak5.org"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/cakewallet.jpg
+  - image_path: /assets/images/cakewallet.jpg
     title: ""
     excerpt: "Cake Wallet for Monero allows you to safely store, send receive and exchange your Monero, with a built-in exchange for Monero, Bitcoin, Litecoin, Ethereum, Bitcoin Cash, and Dash."
     url: "https://cakewallet.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/mm-customizable-feature.png
     title: "Sponsor 5"
     excerpt: "Nullam eleifend vel lectus in porta. Nullam euismod volutpat congue. Fusce at nunc nibh."
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://mmistakes.github.io/minimal-mistakes/assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/mm-customizable-feature.png
     title: "Sponsor 6"
     excerpt: "Donec quis nisl in arcu consectetur elementum. Aliquam ac risus nulla."
     url: "/"

@@ -4,7 +4,7 @@ title: MoneroKon
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: "https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/berlin-banner.jpg"
+  overlay_image: "/assets/images/berlin-banner.jpg"
   actions:
     - label: "<i class='fas fa-pen'></i> Register Now"
       url: "/register/"
