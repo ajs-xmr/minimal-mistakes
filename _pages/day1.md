@@ -1,5 +1,5 @@
 ---
-title: Day 1
+title: Day 1 (Saturday)
 permalink: /day1/
 author_profile: false
 classes: wide
@@ -9,6 +9,9 @@ header:
 sidebar:
   nav: "sidebar"
 ---
+
+The public schedule has yet to be released, but it will be awesome!
+
 | Time | Type | Description |
 | --- | --- | --- |
 | `08:00 - 09:00` | - | Registration and breakfast |
