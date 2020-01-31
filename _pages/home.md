@@ -25,11 +25,10 @@ We consider privacy to be a fundamental human right, and we acknowledge that the
 
 Whether a sponsor or a speaker, we are delighted to have your help. Come participate in our discussions, make a proposal, and help us move privacy forward one conversation at a time. A cashless society lacking basic financial privacy can not remain an open society for long.
 
-
 ## Media links
 
-The Monero Konferenco will be livestreamed. Individual talks will be uploaded after the event. More interviews and media will be available on [Monero Talk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ).
+The Monero Konferenco will be livestreamed on the [Monero Community Workgroup channel](https://youtube.com/c/monerocommunityworkgroup). Individual talks will be uploaded after the event. More interviews and media will be available on [Monero Talk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ).
 
-{% include video id="dQw4w9WgXcQ" provider="youtube" %}
+{% include video id="5OfRD2QSAyU" provider="youtube" %}
 
 [Register]({{ "/register/" | relative_url }}){: .btn .btn--success .btn--large} [Sponsors and Media Partners]({{ "/sponsors-media/" | relative_url }}){: .btn .btn--success .btn--large} [Donate]({{ "/donate/" | relative_url }}){: .btn .btn--success .btn--large}
