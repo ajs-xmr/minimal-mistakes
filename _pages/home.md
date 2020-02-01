@@ -38,7 +38,7 @@ Whether a sponsor or a speaker, we are delighted to have your help. Come partici
 
 The Monero Konferenco will be livestreamed on the [Monero Community Workgroup channel](https://youtube.com/c/monerocommunityworkgroup). Individual talks will be uploaded after the event. More interviews and media will be available on [Monero Talk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ).
 
-{% include video id="5OfRD2QSAyU" provider="youtube" %}
+<iframe width="720" height="480" src="https://ajs-xmr.github.io/minimal-mistakes/assets/videos/monerokon2019.mp4" frameborder="0" allowfullscreen> </iframe>
 
 ## Sponsors and Media Partners
 

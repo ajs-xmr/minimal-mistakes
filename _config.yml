@@ -154,6 +154,7 @@ include:
   - .htaccess
   - _pages
   - /assets/images
+  - /assets/videos
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
