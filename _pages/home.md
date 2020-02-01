@@ -11,6 +11,15 @@ header:
 excerpt: >
   13, 14 June 2020  <br />MotionLab.Berlin  <br />
   <small>Berlin, Germany</small>
+gallery:
+  - image_path: "/assets/images/riat.jpg"
+    title: "RIAT"
+  - image_path: "/assets/images/noah.jpg"
+    title: "Noah"
+  - image_path: "/assets/images/hack5.jpg"
+    title: "Hak5"
+  - image_path: "/assets/images/cake.jpg"
+    title: "CakeWallet"
 ---
 
 ## A technical conference in privacy and financial technology
@@ -31,4 +40,7 @@ The Monero Konferenco will be livestreamed on the [Monero Community Workgroup ch
 
 {% include video id="5OfRD2QSAyU" provider="youtube" %}
 
-[Register]({{ "/register/" | relative_url }}){: .btn .btn--success .btn--large} [Sponsors and Media Partners]({{ "/sponsors-media/" | relative_url }}){: .btn .btn--success .btn--large} [Donate]({{ "/donate/" | relative_url }}){: .btn .btn--success .btn--large}
+## Sponsors and Media Partners
+
+{% include gallery %}
+
