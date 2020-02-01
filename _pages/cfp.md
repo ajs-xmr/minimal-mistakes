@@ -35,6 +35,7 @@ Submissions will be blind reviewed by a selection committee, the names of which 
 - @midipoet
 - @sgp
 - @ajs
+- @SerHack
 
 We ask that you provide a short abstract (500 words max), description, or outline of your proposed talk or workshop, including information on any specific technical requirements you may have. We also request that you provide a short speaker biography (250 words max).
 
