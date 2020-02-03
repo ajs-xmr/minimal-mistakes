@@ -26,10 +26,8 @@ sidebar:
         url: /event-info/
       - title: "After Party"
         url: /party/
-      - title: "Hotel"
+      - title: "Hotel & Transit"
         url: /hotel/
-      - title: "Transit"
-        url: /transit/
   - title: "Speaker List"
     url: /speaker-list/
   - title: "Registration"
