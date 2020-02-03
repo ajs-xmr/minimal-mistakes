@@ -10,4 +10,5 @@ sidebar:
   nav: "sidebar"
 ---
 
-Etiam posuere est sapien, eget pharetra felis faucibus ac. Vivamus pulvinar felis eget malesuada ornare.
+Tickets will be up for sale soon™. [Follow us on Twitter](https://twitter.com/monerokon) or join the [Telegram group]{https://t.me/monerokon} to stay up to date with latest announcements.
+
