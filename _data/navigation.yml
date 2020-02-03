@@ -21,9 +21,16 @@ sidebar:
         url: /day2/
   - title: "Event & Area Info"
     url: /event-info/
+    children:
+      - title: "Conference"
+        url: /event-info/
+      - title: "After Party"
+        url: /party/
+      - title: "Hotel"
+        url: /hotel/
+      - title: "Transit"
+        url: /transit/
   - title: "Speaker List"
     url: /speaker-list/
-  - title: "Movie Night"
-    url: /films/
   - title: "Registration"
     url: /register/
