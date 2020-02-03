@@ -10,5 +10,7 @@ sidebar:
   nav: "sidebar"
 ---
 
-Tickets will be up for sale soon™. [Follow us on Twitter](https://twitter.com/monerokon) or join the [Telegram group]{https://t.me/monerokon} to stay up to date with latest announcements.
+Tickets will be up for sale soon™
+
+[Follow us on Twitter](https://twitter.com/monerokon) or join the [Telegram group](https://t.me/monerokon) to stay up to date with latest announcements.
 
