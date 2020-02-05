@@ -30,6 +30,12 @@ feature_row:
     url: "https://cakewallet.com"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/xmrto.jpg
+    title: ""
+    excerpt: "XMR.to allows you to make a Bitcoin payment with the strong privacy provided by Monero. This means that using Monero together with XMR.to, you can pay any Bitcoin address in the world while protecting your privacy."
+    url: "https://xmr.to"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 Please see below a list of our sponsors and media partners. Sponsorship takes place in tiers, and each tier comes with perks. These perks range from booth space to free advertising with swag bag merchandise and webcast shout-outs. We are also making press passes available to media partners interested in covering the conference.

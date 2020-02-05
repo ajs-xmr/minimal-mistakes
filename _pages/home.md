@@ -20,6 +20,8 @@ gallery:
     title: "Hak5"
   - image_path: "/assets/images/cake.jpg"
     title: "CakeWallet"
+  - image_path: "/assets/images/xmrto.jpg"
+    title: "XMR.to"
 ---
 
 ## A technical conference in privacy and financial technology
