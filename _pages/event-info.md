@@ -21,7 +21,7 @@ Bouchéstr. 12 | Hall 20
 
 MotionLab offers an unique infrastructure to realize your ideas, implement projects quickly and professionally and set up a company. From high-tech labs to 3D printing and metal workshops, coworking places, offices, private maker garages, networking events and an international community. [Learn more](https://motionlab.berlin/en/).
 
-<a href="https://ajs-xmr.github.io/minimal-mistakes/assets/images/motionlab1.jpg"><img src="https://ajs-xmr.github.io/minimal-mistakes/assets/images/motionlab1.jpg"></a>
+<a href="/assets/images/motionlab1.jpg"><img src="/assets/images/motionlab1.jpg"></a>
 
-<a href="https://ajs-xmr.github.io/minimal-mistakes/assets/images/motionlab2.jpg"><img src="https://ajs-xmr.github.io/minimal-mistakes/assets/images/motionlab2.jpg"></a>
+<a href="/assets/images/motionlab2.jpg"><img src="/assets/images/motionlab2.jpg"></a>
 

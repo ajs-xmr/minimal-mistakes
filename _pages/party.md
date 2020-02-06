@@ -52,7 +52,7 @@ Rungestraße 20
 
 c-base is the oldest crashed space station on earth. Its purpose is to increase knowledge and skills pertaining to computer software, hardware and data networks. Nerds, SciFi-Fans and digital activists founded c-base non-profit association in 1995. [Learn more](https://c-base.org/).
 
-<a href="https://ajs-xmr.github.io/minimal-mistakes/assets/images/cbase1.jpg"><img src="https://ajs-xmr.github.io/minimal-mistakes/assets/images/cbase1.jpg"></a>
+<a href="/assets/images/cbase1.jpg"><img src="/assets/images/cbase1.jpg"></a>
 
 ## Short Film Screening
 
