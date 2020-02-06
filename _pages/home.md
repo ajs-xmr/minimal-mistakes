@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: "/assets/images/berlin-banner.jpg"
   actions:
-    - label: "<i class='fas fa-pen'></i> Register Now"
+    - label: "Register Now"
       url: "/register/"
 excerpt: >
   13, 14 June 2020  <br />MotionLab.Berlin  <br />

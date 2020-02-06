@@ -5,7 +5,7 @@ author_profile: false
 classes: wide
 header:
   overlay_color: "#5e616c"
-  overlay_image: "https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/images/berlin-banner.jpg"
+  overlay_image: "/assets/images/berlin-banner.jpg"
 sidebar:
   nav: "sidebar"
 feature_row:
