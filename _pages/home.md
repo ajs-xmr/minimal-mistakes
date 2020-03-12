@@ -9,7 +9,7 @@ header:
     - label: "Register Now"
       url: "/register/"
 excerpt: >
-  13, 14 June 2020  <br />MotionLab.Berlin  <br />
+  June 2021  <br />MotionLab.Berlin  <br />
   <small>Berlin, Germany</small>
 gallery:
   - image_path: "/assets/images/riat.jpg"
@@ -41,7 +41,7 @@ Whether a sponsor or a speaker, we are delighted to have your help. Come partici
 The Monero Konferenco will be livestreamed on the [Monero Community Workgroup channel](https://youtube.com/c/monerocommunityworkgroup). Individual talks will be uploaded after the event. More interviews and media will be available on [Monero Talk](https://www.youtube.com/channel/UC3Hx81QYLoEQkm3vyl4N4eQ).
 
 <div class="videoWrapper">
-<iframe width="720" height="480" src="/assets/videos/monerokon2019.mp4" frameborder="0" allowfullscreen> </iframe>
+<iframe width="720" height="480" src="https://raw.githubusercontent.com/ajs-xmr/minimal-mistakes/master/assets/videos/monerokon2019.mp4" frameborder="0" allowfullscreen> </iframe>
 </div>
 
 ## Sponsors and Media Partners
