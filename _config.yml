@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : # ""
 description              : "An academic Monero conference on the importance of cryptocurrency privacy and security."
 url                      : "https://monerokon.com"
-baseurl                  : "/minimal-mistakes"
+baseurl                  : # "/minimal-mistakes"
 repository               : "ajs-xmr/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "https://monerokon.com/assets/images/88x88.png"
