@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Monero Konferenco 2021
+title: Monero Konferenco 2022
 permalink: /cfp/
 header:
   overlay_color: "#5e616c"
@@ -8,7 +8,7 @@ header:
 ---
 # Call for Presentations/Call for Workshops
 
-Monero Konferenco 2021 welcomes submissions for its two-day event in Berlin, June 2021 @ [MotionLab.Berlin](/event-info/).
+Monero Konferenco 2022 welcomes submissions for its two-day event in Berlin, June 2022 @ [MotionLab.Berlin](/event-info/).
 
 This second edition of the Monero Konferenco strives to provide the same high-quality content as last year’s edition in Denver, bringing together experts and enthusiasts of cryptocurrency and privacy to present state-of-the-art research in both fields.
 
