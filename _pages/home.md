@@ -9,7 +9,7 @@ header:
     - label: "Register Now"
       url: "/register/"
 excerpt: >
-  June 2021  <br />MotionLab.Berlin  <br />
+  June 2022  <br />MotionLab.Berlin  <br />
   <small>Berlin, Germany</small>
 gallery:
   - image_path: "/assets/images/riat.jpg"
